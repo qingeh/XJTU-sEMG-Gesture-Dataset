@@ -4,9 +4,11 @@ This repository provides the self-constructed sEMG dataset used in our study.
 
 ## Dataset Download
 
-The complete dataset is available in the GitHub Release:
+The dataset archive is available in this GitHub repository and is managed using Git LFS:
 
-https://github.com/qingeh/sEMG-Gesture-Dataset-for-Hand-Movement-Recognition/releases/tag/v1.0
+https://github.com/qingeh/sEMG-Gesture-Dataset-for-Hand-Movement-Recognition
+
+Users can download the dataset file directly from the repository page or clone the repository after installing Git LFS.
 
 ## Dataset Description
 
