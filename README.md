@@ -30,7 +30,7 @@ In the experiment, participants performed 7 gesture categories, including select
 
 ## File Structure
 
-The dataset is organized by subject and gesture category. Each `.txt` file stores one sEMG recording sample.
+The dataset is organized by subject and gesture category. Each `.csv` file stores one sEMG recording sample.
 
 A typical organization is as follows:
 
