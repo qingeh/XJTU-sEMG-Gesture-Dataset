@@ -27,7 +27,6 @@ The dataset contains sEMG recordings collected from 10 healthy participants duri
 
 In the experiment, participants performed 7 gesture categories, including selective finger extension, full hand opening and closing, and wrist flexion and extension. Each gesture was performed in 5 repetitive trial sets, with each trial lasting 100 s. The prescribed gesture was repeated every 5 s, and a 5-minute rest period was introduced between gestures to reduce muscle fatigue.
 
-Although the acquisition system supports 64-channel sEMG recording, the published study mainly used a reduced 4-channel configuration selected from the central region of the electrode array to balance recognition performance and computational cost.
 
 ## File Structure
 
